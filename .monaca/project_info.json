@@ -1,0 +1,36 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca@3.1.0",
+        "mobi.monaca.plugins.MonacaBackend@1.2.1"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "7",
+    "cordova_version": "6.2",
+    "plugin_settings": {
+        "cordova-plugin-crosswalk-webview": {
+            "variables": [
+                "XWALK_VERSION=18.48.477.13"
+            ]
+        }
+    },
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.2.2",
+        "cordova-plugin-device-motion@1.2.1",
+        "cordova-plugin-camera@2.2.0",
+        "cordova-plugin-device-orientation@1.0.3",
+        "cordova-plugin-geolocation@2.2.0",
+        "cordova-plugin-network-information@1.2.1",
+        "cordova-plugin-vibration@2.1.1",
+        "cordova-plugin-contacts@2.1.0",
+        "cordova-plugin-splashscreen@3.2.2",
+        "cordova-plugin-device@1.1.2",
+        "cordova-custom-config@2.0.3"
+    ],
+    "title-ja": "",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [],
+    "name": "generated-1487650527-58a8f5c0803451540b337c6c"
+}
